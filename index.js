@@ -6,7 +6,7 @@
   let fieldbend=Xrandom(0.2,1);
 
 
-  // console.log(fieldbend)
+  console.log(fieldbend)
 
   let centerpoint=[Xrandom(300,800),Xrandom(500,700)];
   let sizeratio=[Xrandom(100,200),200];
